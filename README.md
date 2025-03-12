@@ -1,2 +1,2 @@
 # Ouranos
- Game
+An idle game
